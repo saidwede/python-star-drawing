@@ -8,3 +8,24 @@ To use this script, simply run it from the command line with the desired size as
 
 ```bash
 python3 star.py 5
+               *               
+              * *              
+             *   *             
+            *     *            
+           *       *           
+***********         ***********
+ *                           * 
+  *                         *  
+   *                       *   
+    *                     *    
+     *                   *     
+    *                     *    
+   *                       *   
+  *                         *  
+ *                           * 
+***********         ***********
+           *       *           
+            *     *            
+             *   *             
+              * *              
+               *             
